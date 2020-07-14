@@ -18,7 +18,7 @@ describe('ONG', () => {
       .send({
         name:  "MediAres",
         email: "contato@mediares.com.br",
-        whatsapp: "4599990000",
+        whatsapp: "4599999999",
         city: "Medianeira",
         uf: "PR"
     });
