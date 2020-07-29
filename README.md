@@ -4,12 +4,12 @@
 
 <p align="center">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/davipalmas/omnistack11?color=0000FF">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dpalmas/omnistack11?color=0000FF">
 
-  <img alt="License" src="https://img.shields.io/github/license/davipalmas/omnistack11?color=0000FF&logo=MIT">
+  <img alt="License" src="https://img.shields.io/github/license/dpalmas/omnistack11?color=0000FF&logo=MIT">
   
-  <a href="https://github.com/davipalmas/omnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/davipalmas/omnistack11?color=0000FF">
+  <a href="https://github.com/dpalmas/omnistack11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dpalmas/omnistack11?color=0000FF">
   </a>
 </p>
 
